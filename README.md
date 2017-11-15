@@ -3,4 +3,4 @@
 # cphbusiness-sem3-ci
 Continuous integration for third semester
 
-Link: [Præsentation about CI](https://MartinLodahl.github.io/cphbusiness-sem3-ci/presentation.html#/)
+Link: [Præsentation about CI](https://Jegp.github.io/cphbusiness-sem3-ci/presentation.html#/)
